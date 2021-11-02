@@ -1,0 +1,804 @@
+.Hexa {
+    margin-left: 2%;
+    margin-top: 5%;
+    width: 215px;
+    height: 90px;
+    background-position: center;
+    background: green;
+    overflow: hidden;
+    visibility: hidden;
+    -moz-transform: rotate(120deg);
+    -ms-transform: rotate(120deg);
+    -o-transform: rotate(120deg);
+    -webkit-transform: rotate(120deg);
+}
+
+.Hexa-in {
+    width: 90%;
+    height: 100%;
+    background-position: center;
+    background: red;
+    overflow: hidden;
+    transform: rotate(60deg);
+    left: 50px;
+    -moz-transform: rotate(120deg);
+    -ms-transform: rotate(120deg);
+    -o-transform: rotate(120deg);
+    -webkit-transform: rotate(120deg);
+}
+
+.Hexa-image {
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background-size: 40% 100%;
+    background-image: url(happy-diwali-diwali.gif);
+    transform: rotate(60deg);
+    visibility: visible;
+    -moz-transform: rotate(120deg);
+    -ms-transform: rotate(120deg);
+    -o-transform: rotate(120deg);
+    -webkit-transform: rotate(120deg);
+}
+
+.Hexa1 {
+    margin-left: 2%;
+    margin-top: 5%;
+    width: 215px;
+    height: 90px;
+    background-position: center;
+    background: green;
+    overflow: hidden;
+    visibility: hidden;
+    -moz-transform: rotate(120deg);
+    -ms-transform: rotate(120deg);
+    -o-transform: rotate(120deg);
+    -webkit-transform: rotate(120deg);
+}
+
+.Hexa-in1 {
+    width: 90%;
+    height: 100%;
+    background-position: center;
+    background: red;
+    overflow: hidden;
+    transform: rotate(60deg);
+    left: 50px;
+    -moz-transform: rotate(120deg);
+    -ms-transform: rotate(120deg);
+    -o-transform: rotate(120deg);
+    -webkit-transform: rotate(120deg);
+}
+
+.Hexa-image1 {
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background-size: 40% 100%;
+    background-image: url(happy-diwali-diwali.gif);
+    transform: rotate(60deg);
+    visibility: visible;
+    -moz-transform: rotate(120deg);
+    -ms-transform: rotate(120deg);
+    -o-transform: rotate(120deg);
+    -webkit-transform: rotate(120deg);
+}
+
+.Hexa2 {
+    margin-left: 2%;
+    margin-top: 5%;
+    width: 215px;
+    height: 90px;
+    background-position: center;
+    background: green;
+    overflow: hidden;
+    visibility: hidden;
+    -moz-transform: rotate(120deg);
+    -ms-transform: rotate(120deg);
+    -o-transform: rotate(120deg);
+    -webkit-transform: rotate(120deg);
+}
+
+.Hexa-in2 {
+    width: 90%;
+    height: 100%;
+    background-position: center;
+    background: red;
+    overflow: hidden;
+    transform: rotate(60deg);
+    left: 50px;
+    -moz-transform: rotate(120deg);
+    -ms-transform: rotate(120deg);
+    -o-transform: rotate(120deg);
+    -webkit-transform: rotate(120deg);
+}
+
+.Hexa-image2 {
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background-size: 40% 100%;
+    background-image: url(happy-diwali-diwali.gif);
+    transform: rotate(60deg);
+    visibility: visible;
+    -moz-transform: rotate(120deg);
+    -ms-transform: rotate(120deg);
+    -o-transform: rotate(120deg);
+    -webkit-transform: rotate(120deg);
+}
+
+.Hexa3 {
+    margin-left: 15%;
+    margin-top: -30%;
+    width: 215px;
+    height: 90px;
+    background-position: center;
+    background: green;
+    overflow: hidden;
+    visibility: hidden;
+    -moz-transform: rotate(120deg);
+    -ms-transform: rotate(120deg);
+    -o-transform: rotate(120deg);
+    -webkit-transform: rotate(120deg);
+}
+
+.Hexa-in3 {
+    width: 90%;
+    height: 100%;
+    background-position: center;
+    background: red;
+    overflow: hidden;
+    transform: rotate(60deg);
+    left: 50px;
+    -moz-transform: rotate(120deg);
+    -ms-transform: rotate(120deg);
+    -o-transform: rotate(120deg);
+    -webkit-transform: rotate(120deg);
+}
+
+.Hexa-image3 {
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background-size: 40% 100%;
+    background-image: url(happy-diwali-diwali.gif);
+    transform: rotate(60deg);
+    visibility: visible;
+    -moz-transform: rotate(120deg);
+    -ms-transform: rotate(120deg);
+    -o-transform: rotate(120deg);
+    -webkit-transform: rotate(120deg);
+}
+
+.Hexa4 {
+    margin-left: 28%;
+    margin-top: -6.5%;
+    width: 215px;
+    height: 90px;
+    background-position: center;
+    background: green;
+    overflow: hidden;
+    visibility: hidden;
+    -moz-transform: rotate(120deg);
+    -ms-transform: rotate(120deg);
+    -o-transform: rotate(120deg);
+    -webkit-transform: rotate(120deg);
+}
+
+.Hexa-in4 {
+    width: 90%;
+    height: 100%;
+    background-position: center;
+    background: red;
+    overflow: hidden;
+    transform: rotate(60deg);
+    left: 50px;
+    -moz-transform: rotate(120deg);
+    -ms-transform: rotate(120deg);
+    -o-transform: rotate(120deg);
+    -webkit-transform: rotate(120deg);
+}
+
+.Hexa-image4 {
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background-size: 40% 100%;
+    background-image: url(happy-diwali-diwali.gif);
+    transform: rotate(60deg);
+    visibility: visible;
+    -moz-transform: rotate(120deg);
+    -ms-transform: rotate(120deg);
+    -o-transform: rotate(120deg);
+    -webkit-transform: rotate(120deg);
+}
+
+.Hexa6 {
+    margin-left: 57%;
+    margin-top: -6.7%;
+    width: 215px;
+    height: 90px;
+    background-position: center;
+    background: green;
+    overflow: hidden;
+    visibility: hidden;
+    -moz-transform: rotate(120deg);
+    -ms-transform: rotate(120deg);
+    -o-transform: rotate(120deg);
+    -webkit-transform: rotate(120deg);
+}
+
+.Hexa-in6 {
+    width: 90%;
+    height: 100%;
+    background-position: center;
+    background: red;
+    overflow: hidden;
+    transform: rotate(60deg);
+    left: 50px;
+    -moz-transform: rotate(120deg);
+    -ms-transform: rotate(120deg);
+    -o-transform: rotate(120deg);
+    -webkit-transform: rotate(120deg);
+}
+
+.Hexa-image6 {
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background-size: 40% 100%;
+    background-image: url(happy-diwali-diwali.gif);
+    transform: rotate(60deg);
+    visibility: visible;
+    -moz-transform: rotate(120deg);
+    -ms-transform: rotate(120deg);
+    -o-transform: rotate(120deg);
+    -webkit-transform: rotate(120deg);
+}
+
+.Hexa7 {
+    margin-left: 69%;
+    margin-top: -6.9%;
+    width: 215px;
+    height: 90px;
+    background-position: center;
+    background: green;
+    overflow: hidden;
+    visibility: hidden;
+    -moz-transform: rotate(120deg);
+    -ms-transform: rotate(120deg);
+    -o-transform: rotate(120deg);
+    -webkit-transform: rotate(120deg);
+}
+
+.Hexa-in7 {
+    width: 90%;
+    height: 100%;
+    background-position: center;
+    background: red;
+    overflow: hidden;
+    transform: rotate(60deg);
+    left: 50px;
+    -moz-transform: rotate(120deg);
+    -ms-transform: rotate(120deg);
+    -o-transform: rotate(120deg);
+    -webkit-transform: rotate(120deg);
+}
+
+.Hexa-image7 {
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background-size: 40% 100%;
+    background-image: url(happy-diwali-diwali.gif);
+    transform: rotate(60deg);
+    visibility: visible;
+    -moz-transform: rotate(120deg);
+    -ms-transform: rotate(120deg);
+    -o-transform: rotate(120deg);
+    -webkit-transform: rotate(120deg);
+}
+
+
+.Hexa8 {
+    margin-left: 81%;
+    margin-top: -6.7%;
+    width: 215px;
+    height: 90px;
+    background-position: center;
+    background: green;
+    overflow: hidden;
+    visibility: hidden;
+    -moz-transform: rotate(120deg);
+    -ms-transform: rotate(120deg);
+    -o-transform: rotate(120deg);
+    -webkit-transform: rotate(120deg);
+}
+
+.Hexa-in8 {
+    width: 90%;
+    height: 100%;
+    background-position: center;
+    background: red;
+    overflow: hidden;
+    transform: rotate(60deg);
+    left: 50px;
+    -moz-transform: rotate(120deg);
+    -ms-transform: rotate(120deg);
+    -o-transform: rotate(120deg);
+    -webkit-transform: rotate(120deg);
+}
+
+.Hexa-image8 {
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background-size: 40% 100%;
+    background-image: url(happy-diwali-diwali.gif);
+    transform: rotate(60deg);
+    visibility: visible;
+    -moz-transform: rotate(120deg);
+    -ms-transform: rotate(120deg);
+    -o-transform: rotate(120deg);
+    -webkit-transform: rotate(120deg);
+}
+
+.Hexa9 {
+    margin-left: 81%;
+    margin-top: 5%;
+    width: 215px;
+    height: 90px;
+    background-position: center;
+    background: green;
+    overflow: hidden;
+    visibility: hidden;
+    -moz-transform: rotate(120deg);
+    -ms-transform: rotate(120deg);
+    -o-transform: rotate(120deg);
+    -webkit-transform: rotate(120deg);
+}
+
+.Hexa-in9 {
+    width: 90%;
+    height: 100%;
+    background-position: center;
+    background: red;
+    overflow: hidden;
+    transform: rotate(60deg);
+    left: 50px;
+    -moz-transform: rotate(120deg);
+    -ms-transform: rotate(120deg);
+    -o-transform: rotate(120deg);
+    -webkit-transform: rotate(120deg);
+}
+
+.Hexa-image9 {
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background-size: 40% 100%;
+    background-image: url(happy-diwali-diwali.gif);
+    transform: rotate(60deg);
+    visibility: visible;
+    -moz-transform: rotate(120deg);
+    -ms-transform: rotate(120deg);
+    -o-transform: rotate(120deg);
+    -webkit-transform: rotate(120deg);
+}
+
+.Hexa10 {
+    margin-left: 82%;
+    margin-top: 4%;
+    width: 215px;
+    height: 90px;
+    background-position: center;
+    background: green;
+    overflow: hidden;
+    visibility: hidden;
+    -moz-transform: rotate(120deg);
+    -ms-transform: rotate(120deg);
+    -o-transform: rotate(120deg);
+    -webkit-transform: rotate(120deg);
+}
+
+.Hexa-in10 {
+    width: 90%;
+    height: 100%;
+    background-position: center;
+    background: red;
+    overflow: hidden;
+    transform: rotate(60deg);
+    left: 50px;
+    -moz-transform: rotate(120deg);
+    -ms-transform: rotate(120deg);
+    -o-transform: rotate(120deg);
+    -webkit-transform: rotate(120deg);
+}
+
+.Hexa-image10 {
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background-size: 40% 100%;
+    background-image: url(happy-diwali-diwali.gif);
+    transform: rotate(60deg);
+    visibility: visible;
+    -moz-transform: rotate(120deg);
+    -ms-transform: rotate(120deg);
+    -o-transform: rotate(120deg);
+    -webkit-transform: rotate(120deg);
+}
+
+.Hexaa {
+    margin-left: 20%;
+    margin-top: -25%;
+    width: 250px;
+    height: 500px;
+    background-position: center;
+    background: green;
+    overflow: hidden;
+    visibility: hidden;
+    -moz-transform: rotate(120deg);
+    -ms-transform: rotate(120deg);
+    -o-transform: rotate(120deg);
+    -webkit-transform: rotate(120deg);
+}
+
+.Hexa-ina {
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background: red;
+    overflow: hidden;
+    transform: rotate(60deg);
+    left: 50px;
+    -moz-transform: rotate(120deg);
+    -ms-transform: rotate(120deg);
+    -o-transform: rotate(120deg);
+    -webkit-transform: rotate(120deg);
+}
+
+.Hexa-imagea {
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background-size: 100% 60%;
+    background-image: url(Crack.gif);
+    transform: rotate(60deg);
+    visibility: visible;
+    -moz-transform: rotate(120deg);
+    -ms-transform: rotate(120deg);
+    -o-transform: rotate(120deg);
+    -webkit-transform: rotate(120deg);
+}
+
+.Hexab {
+    margin-left: 62%;
+    margin-top: -37%;
+    width: 250px;
+    height: 500px;
+    background-position: center;
+    background: green;
+    overflow: hidden;
+    visibility: hidden;
+    -moz-transform: rotate(120deg);
+    -ms-transform: rotate(120deg);
+    -o-transform: rotate(120deg);
+    -webkit-transform: rotate(120deg);
+}
+
+.Hexa-inb {
+    width:100%;
+    height: 100%;
+    background-position: center;
+    background: red;
+    overflow: hidden;
+    transform: rotate(60deg);
+    left: 50px;
+    -moz-transform: rotate(120deg);
+    -ms-transform: rotate(120deg);
+    -o-transform: rotate(120deg);
+    -webkit-transform: rotate(120deg);
+}
+
+.Hexa-imageb {
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background-size: 100% 60%;
+    background-image: url(Crack.gif);
+    transform: rotate(60deg);
+    visibility: visible;
+    -moz-transform: rotate(120deg);
+    -ms-transform: rotate(120deg);
+    -o-transform: rotate(120deg);
+    -webkit-transform: rotate(120deg);
+}
+
+.Hexac {
+    margin-left: 20%;
+    margin-top: -25%;
+    width: 250px;
+    height: 500px;
+    background-position: center;
+    background: green;
+    overflow: hidden;
+    visibility: hidden;
+    -moz-transform: rotate(120deg);
+    -ms-transform: rotate(120deg);
+    -o-transform: rotate(120deg);
+    -webkit-transform: rotate(120deg);
+}
+
+.Hexa-inc {
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background: red;
+    overflow: hidden;
+    transform: rotate(60deg);
+    left: 50px;
+    -moz-transform: rotate(120deg);
+    -ms-transform: rotate(120deg);
+    -o-transform: rotate(120deg);
+    -webkit-transform: rotate(120deg);
+}
+
+.Hexa-imagec {
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background-size: 100% 60%;
+    background-image: url(sl.png);
+    transform: rotate(60deg);
+    visibility: visible;
+    -moz-transform: rotate(120deg);
+    -ms-transform: rotate(120deg);
+    -o-transform: rotate(120deg);
+    -webkit-transform: rotate(120deg);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: cursive;
+}
+
+.html, .body {
+    display: grid;
+    height: 100%;
+    place-items: center;
+    text-align: center;
+    background: #000;
+}
+
+.container{
+    position: relative;
+    width: 400px;
+    background: #111;
+    padding: 20px 30px;
+    border: 1px solid blue;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.container .post{
+    display: none;
+}
+
+.container .text{
+    font-size: 25px;
+    color: #406f8fa6;
+    font-weight: 500;
+}
+
+.container .edit{
+    position: absolute;
+    right: 10px;
+    top: 5px;
+    font-size: 16px;
+    color: #666;
+    font-weight: 500;
+    cursor: pointer;
+}
+
+.container .edit:hover{
+    text-decoration: underline;
+}
+
+.container .star-widget input{
+    display: none;
+}
+
+.star-widget label{
+    font-size: 40px;
+    color: #444;
+    padding: 10px;
+    float: right;
+    transition: all 0.2s ease;
+}
+
+input:not(:checked) ~ label:hover, input:not(:checked) ~ label:hover ~ label{
+    color: green;
+}
+
+input:checked ~ label{
+    color: red;
+}
+
+input#rate-5:checked ~ label{
+    color: #fe7;
+    text-shadow: 0 0 20px #952;
+}
+
+#rate-1:checked ~ form header:before{
+    content: "I just hate it";
+}
+
+#rate-2:checked ~ form header:before{
+    content: "I don`t like it";
+}
+
+#rate-3:checked ~ form header:before{
+    content: "it is awesome";
+}
+
+#rate-4:checked ~ form header:before{
+    content: "I just like it";
+}
+
+#rate-5:checked ~ form header:before{
+    content: "I just love it";
+}
+
+.container .form{
+    display: none;
+}
+
+input:checked ~ form{
+    display: block;
+}
+
+form header{
+    width: 100%;
+    font-size: 25px;
+    color: #fe7;
+    font-weight: 500;
+    margin: 5px 0 20px 0;
+    text-align: center;
+    transition: all .2s ease;
+}
+
+form .textarea{
+    height: 100px;
+    width: 100%;
+    overflow: hidden;
+}
+
+form .textarea textarea{
+    height: 100%;
+    width: 100%;
+    outline: none;
+    color: #eee;
+    border: 1px solid #333;
+    background: #222;
+    padding: 10px;
+    font-size: 17px;
+    resize: none;
+}
+
+.textarea textarea:focus{
+    border-color: #444;
+}
+
+form .btn{
+    height: 45px;
+    width: 100%;
+    margin: 15px 0;
+}
+
+form .btn button{
+    height: 100%;
+    width: 20%;
+    border: 3px solid red;
+    outline: none;
+    background: #222;
+    color: #999;
+    font-size: 17px;
+    font-weight: 500;
+    text-transform: uppercase;
+    cursor: pointer;
+    transition: all .3s ease;
+}
+
+form .btn button:hover{
+    background: #1b1b1b;
+}
+
+.cra {
+    margin-left: 70%;
+    margin-top: -28%;
+    width: 250px;
+    height: 500px;
+    background-position: center;
+    background: green;
+    overflow: hidden;
+    visibility: hidden;
+    -moz-transform: rotate(120deg);
+    -ms-transform: rotate(120deg);
+    -o-transform: rotate(120deg);
+    -webkit-transform: rotate(120deg);
+}
+
+.cra-in {
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background: red;
+    overflow: hidden;
+    transform: rotate(60deg);
+    left: 50px;
+    -moz-transform: rotate(120deg);
+    -ms-transform: rotate(120deg);
+    -o-transform: rotate(120deg);
+    -webkit-transform: rotate(120deg);
+}
+
+.cra-image {
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background-size: 100% 60%;
+    background-image: url(cra.gif);
+    transform: rotate(60deg);
+    visibility: visible;
+    -moz-transform: rotate(120deg);
+    -ms-transform: rotate(120deg);
+    -o-transform: rotate(120deg);
+    -webkit-transform: rotate(120deg);
+}
+
+.cra1 {
+    margin-left: 10%;
+    margin-top: -38%;
+    width: 250px;
+    height: 500px;
+    background-position: center;
+    background: green;
+    overflow: hidden;
+    visibility: hidden;
+    -moz-transform: rotate(120deg);
+    -ms-transform: rotate(120deg);
+    -o-transform: rotate(120deg);
+    -webkit-transform: rotate(120deg);
+}
+
+.cra1-in {
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    overflow: hidden;
+    transform: rotate(60deg);
+    left: 50px;
+    -moz-transform: rotate(120deg);
+    -ms-transform: rotate(120deg);
+    -o-transform: rotate(120deg);
+    -webkit-transform: rotate(120deg);
+}
+
+.cra1-image {
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background-size: 100% 60%;
+    background-image: url(cra.gif);
+    transform: rotate(60deg);
+    visibility: visible;
+    -moz-transform: rotate(120deg);
+    -ms-transform: rotate(120deg);
+    -o-transform: rotate(120deg);
+    -webkit-transform: rotate(120deg);
